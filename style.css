@@ -88,6 +88,12 @@ body {
     img.desktop {
         display: none;
     }
+    .content{
+        padding-left: 10%;
+    }
+    .heading{
+        line-height: 250%;
+    }
     img.mobile{
         margin: 0px 0px 0px 0px;
         padding: 0px 0px 0px;
